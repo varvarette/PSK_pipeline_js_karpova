@@ -1,3 +1,6 @@
+//type in terminal :
+//npm install shelljs
+//npm install yargs
 
 //Imports
 //Um mit Dateien zu arbeiten, brauchst Du das Modul fs.
